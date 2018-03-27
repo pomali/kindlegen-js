@@ -20,5 +20,9 @@
     "kindle",
     "kindlegen",
     "wrapper"
-  ]
+  ],
+  "dependencies": {
+    "download": "^6.2.5",
+    "temp": "^0.8.3"
+  }
 }
