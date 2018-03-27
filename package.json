@@ -1,0 +1,24 @@
+{
+  "name": "kindlegen-js",
+  "version": "1.0.0",
+  "description": "Use Kindlegen inside js",
+  "main": "index.js",
+  "repository": "https://github.com/pomali/kindlegen-js",
+  "author": "pom",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  },
+  "scripts": {
+    "install": "node install.js",
+    "test": "npm run build && mocha"
+  },
+  "keywords": [
+    "epub",
+    "ebook",
+    "mobi",
+    "kindle",
+    "kindlegen",
+    "wrapper"
+  ]
+}
